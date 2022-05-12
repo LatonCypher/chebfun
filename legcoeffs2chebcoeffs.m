@@ -12,5 +12,4 @@ function chebcoeffs = legcoeffs2chebcoeffs(legcoeffs)
 
 % This command is a wrapper for leg2cheb.
 chebcoeffs = leg2cheb(legcoeffs);
-
 end
